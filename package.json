@@ -1,18 +1,18 @@
-c{
+{
   "dependencies": {
     "axios": "^1.6.8",
     "cors": "^2.8.5",
     "dotenv": "^16.4.5",
     "express": "^4.19.2"
   },
-  "name": "express-backend", // Update with your project name
+  "name": "express-backend", 
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js" // Added start script
+    "start": "node index.js" 
   },
   "keywords": [],
-  "author": "Your Name", // Update with your name or organization
+  "author": "Your Name",
   "license": "ISC",
   "description": "A Node.js backend application built with Express"
 }
